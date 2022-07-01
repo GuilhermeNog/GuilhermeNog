@@ -1,4 +1,8 @@
-### I am Guilherme Nogueira 😄
+<div align="center" valign="top">
+    <h1 align="center">I'm <a href="https://www.linkedin.com/in/guilherme-nogueira-2b40a9237"><i>Guilherme Nogueira</i></a></h1>
+
+👨‍🎓 Studying: Computer Science at IFCE;
+ </div>
 
 <div align="center">
   <a href="https://github.com/GuilhermeNog">
